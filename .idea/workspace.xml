@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ce41a19c-76fa-4a61-9e9b-d9788892e22e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Contract/Capsule.sol" afterPath="$PROJECT_DIR$/Contract/Capsule.sol" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,27 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="qrCodeScannerModal.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Alchemy/public/javascripts/qrCodeScannerModal.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="challenge.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Alchemy/public/javascripts/challenge.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="6" lean-forward="false" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="challenge.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="challenge.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Alchemy/views/partials/challenge.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="313">
@@ -41,6 +22,29 @@
               <folding>
                 <element signature="e#501#508#1#HTML" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Capsule.sol" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Contract/Capsule.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="199" column="1" lean-forward="true" selection-start-line="199" selection-start-column="1" selection-end-line="199" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -173,7 +177,6 @@
         <option value="$PROJECT_DIR$/Alchemy/views/partials/_footer.ejs" />
         <option value="$PROJECT_DIR$/Alchemy/views/chemist.ejs" />
         <option value="$PROJECT_DIR$/Alchemy/views/partials/orderReplacementModal.ejs" />
-        <option value="$PROJECT_DIR$/Contract/Capsule.sol" />
         <option value="$PROJECT_DIR$/Alchemy/views/partials/prescribeMedicineModal.ejs" />
         <option value="$PROJECT_DIR$/Alchemy/public/javascripts/ethereum.js" />
         <option value="$PROJECT_DIR$/Alchemy/views/overview.ejs" />
@@ -185,6 +188,8 @@
         <option value="$PROJECT_DIR$/Alchemy/views/researcher.ejs" />
         <option value="$PROJECT_DIR$/Alchemy/public/javascripts/challenge.js" />
         <option value="$PROJECT_DIR$/Alchemy/views/partials/challenge.ejs" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Contract/Capsule.sol" />
       </list>
     </option>
   </component>
@@ -230,37 +235,6 @@
             <path>
               <item name="Alchemist" type="b2602c69:ProjectViewProjectNode" />
               <item name="Alchemist" type="462c0819:PsiDirectoryNode" />
-              <item name="Alchemy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alchemist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alchemist" type="462c0819:PsiDirectoryNode" />
-              <item name="Alchemy" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alchemist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alchemist" type="462c0819:PsiDirectoryNode" />
-              <item name="Alchemy" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alchemist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alchemist" type="462c0819:PsiDirectoryNode" />
-              <item name="Alchemy" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alchemist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alchemist" type="462c0819:PsiDirectoryNode" />
-              <item name="Alchemy" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Alchemist" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Alchemist" type="462c0819:PsiDirectoryNode" />
               <item name="Contract" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -275,7 +249,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/projects/WorldOfDustbin" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -388,12 +362,12 @@
       <updated>1518263764700</updated>
       <workItem from="1518263766084" duration="28830000" />
       <workItem from="1518325598851" duration="11232000" />
-      <workItem from="1518577247570" duration="93000" />
+      <workItem from="1518577247570" duration="398000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40155000" />
+    <option name="totallyTimeSpent" value="40460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="766" width="1366" height="748" extended-state="6" />
@@ -469,6 +443,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2160">
           <caret line="144" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -576,13 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contract/Capsule.sol">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="144" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -714,6 +682,25 @@
           <folding>
             <element signature="e#501#508#1#HTML" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contract/Capsule.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="199" column="1" lean-forward="true" selection-start-line="199" selection-start-column="1" selection-end-line="199" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>

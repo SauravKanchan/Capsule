@@ -135,13 +135,16 @@ contract Capsule{
     }
 
 
+
+
     function compareStrings (string a, string b) view returns (bool){
         return keccak256(a) == keccak256(b);
     }
 
+
     //medicine to prescribe by doctor
-    function prescrib(address _address,uint id,string _doctor,string _description,uint patien_id,address to_address) isDoctor(to_address) public{
-        prescribed[_address].push(id);
+    function prescrib(address _address,uint id,string _doctor,string _description,uint patien_id,address to_address) isDoctor(_address) public{
+        prescribed[to_address].push(id);
         // var pr = patient_history1[];
         var pr =record(_doctor,id,_description);
         if (patien_id==1)
@@ -168,6 +171,7 @@ contract Capsule{
     //         return patient_history4;
     // }
 
+
     function get_total_medicine(address _address) view public returns(uint){
         return stock[_address];
     }
@@ -192,6 +196,5 @@ contract Capsule{
     function get_medicine_history() view public returns(uint,uint,uint){
         return (medicine_history[1],medicine_history[2],medicine_history[3]);
     }
-
 
 }
